@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+
+echo "$(python $QUTE_DATA_DIR/userscripts/switch_tab.py)" >> "$QUTE_FIFO"
