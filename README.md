@@ -2,6 +2,8 @@
 
 [userscript](https://github.com/qutebrowser/qutebrowser/blob/master/doc/userscripts.asciidoc) for [qutebrowser](https://github.com/qutebrowser/qutebrowser) for quickly switching between tabs using rofi or dmenu.
 
+![](screencast/qute_switch_tab.gif)
+
 ## Installation
 Run `install.sh` or simply create a symbolic link or copy the files `switch_tab` and `switch_tab.py` to the qutebrowser's userscripts directory (usually `~/.local/share/qutebrowser/userscripts`) and make it executable.
 
