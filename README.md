@@ -1,5 +1,7 @@
 # qute-switch-tab
 
+NOTE: This functionality exists natively in qutebrowser by the command `gt` (although not using rofi). I learned this after creating the userscript :)
+
 [userscript](https://github.com/qutebrowser/qutebrowser/blob/master/doc/userscripts.asciidoc) for [qutebrowser](https://github.com/qutebrowser/qutebrowser) for quickly switching between tabs using rofi or dmenu.
 
 ![](screencast/qute_switch_tab.gif)
